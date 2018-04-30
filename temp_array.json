@@ -1,6 +1,5 @@
 [
-{
-name: "Meowsy",
+{name: "Meowsy",
 species: "cat",
 foods: {
 likes: [
